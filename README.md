@@ -1,4 +1,9 @@
-** Hello! Welcome to my Github page. 🤎 **
+**Hello! Welcome to my Github page. 🤎**
+
+- 📚 I'm a undergraduate student.
+- 💻 I'm majoring in computer science.
+- 🎀 Pronouns: She/Her/Hers.
+- 🌱 I’m currently learning Godot, Blender.
 
 <!--
 **golden-fox07/golden-fox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
