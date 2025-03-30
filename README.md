@@ -1,4 +1,4 @@
-**# Hello! Welcome to my Github page. :🤎: #**
+** Hello! Welcome to my Github page. 🤎 **
 
 <!--
 **golden-fox07/golden-fox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
