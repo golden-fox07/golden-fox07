@@ -1,7 +1,7 @@
 **Hello! Welcome to my Github page. 🤎**
 
-- 🎀 Pronouns: She/Her/Hers.
 - 🌱 I’m currently learning Godot, Blender.
+- 🎀 Pronouns: She/Her/Hers.
 
 <!--
 **golden-fox07/golden-fox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
