@@ -1,7 +1,5 @@
 **Hello! Welcome to my Github page. 🤎**
 
-- 📚 I'm a undergraduate student.
-- 💻 I'm majoring in computer science.
 - 🎀 Pronouns: She/Her/Hers.
 - 🌱 I’m currently learning Godot, Blender.
 
@@ -18,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚 I'm a undergraduate student.
+- 💻 I'm majoring in computer science.
 -->
