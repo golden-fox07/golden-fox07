@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Godot, Blender.
 - 🎀 Pronouns: She/Her.
 
+
+
 <!--
 **golden-fox07/golden-fox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
