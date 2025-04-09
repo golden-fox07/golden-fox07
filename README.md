@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Godot, Blender.
 - 🎀 Pronouns: She/Her.
+- 📚 I will be an undergraduate student this year.
 
 
 
