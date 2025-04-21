@@ -1,6 +1,6 @@
 **Hello! Welcome to my Github page. 🤎**
 
-- 🌱 I’m currently learning Godot, Blender.
+- 🌱 I’m currently learning Godot, Blender and Javascript.
 - 🎀 Pronouns: She/Her.
 - 📚 I will be an undergraduate student this year.
 
