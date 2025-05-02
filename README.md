@@ -1,26 +1,17 @@
 <h1 align="center">Hello! Welcome to my Github page. 🤎</h1>
-
-###
-
 <p align="left">Hi, I’m Aakriti Agarwal, soon-to-be uni student and part-time napper.</p>
 
-###
+<img align="right" height="200" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif"  />
 
-<img align="right" height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b206f421-052b-4444-bcdb-48c41c85c18b"  />
+### About me :)
 
-###
+<p align="left">
+  🌱 I’m currently learning Godot, Blender and Javascript.<br>
+  🎀 Pronouns: She/Her.<br> 
+  📚 I will be an undergraduate student this year.
+</p>
 
-<h2 align="left">About me :)</h2>
-
-###
-
-<p align="left">🌱 I’m currently learning Godot, Blender and Javascript.<br>🎀 Pronouns: She/Her.<br> 📚 I will be an undergraduate student this year.</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
+<p align="left"></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
@@ -35,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
 
 <!--
 **golden-fox07/golden-fox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
