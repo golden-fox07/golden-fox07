@@ -6,9 +6,11 @@
 ### About me :)
 
 <p align="left">
-  🌱 I’m currently learning Godot, Blender and Javascript.<br>
-  🎀 Pronouns: She/Her.<br> 
-  📚 I will be an undergraduate student this year.
+  <ul>
+    <li>🌱 I’m currently learning Godot, Blender and Javascript.<br></li>
+    <li>🎀 Pronouns: She/Her.<br> </li>
+    <li>📚 I will be an undergraduate student this year.</li>
+  </ul>
 </p>
 
 <p align="left"></p>
