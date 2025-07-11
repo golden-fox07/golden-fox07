@@ -7,7 +7,7 @@
 
 <p align="left">
   <ul>
-    <li>🌱 I’m currently learning Godot, Blender, Javascript, React and Threejs.<br></li>
+    <li>🌱 I’m currently learning Godot, Blender, Javascript, Typescript and React.<br></li>
     <li>🎀 Pronouns: She/Her.<br> </li>
     <li>📚 I will be an undergraduate student this year.</li>
   </ul>
