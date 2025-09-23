@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Welcome to my Github page. 🤎</h1>
-<p align="left">Hi, I’m Aakriti Agarwal, soon-to-be uni student and part-time napper.</p>
+<p align="left">Hi, I’m Aakriti Agarwal and i am a first year uni student and a part-time napper.</p>
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif"  />
 
